@@ -7,10 +7,10 @@
         "level": "debug"
     },
     "cors": [
-        "https://swagger.tomochain.com"
+        "https://swagger.rupaya.io"
     ],
     "tomoscanUrl": "http://localhost:3003",
-    "tomoscanAPI": "https://scan.tomochain.com",
+    "tomoscanAPI": "https://scan.rupaya.io",
     "tomowalletUrl": "https://wallet.testnet.tomochain.com",
     "tomorelayerAPI": "https://relayer.testnet.tomochain.com",
     "relayerAuthorityKey": "",
